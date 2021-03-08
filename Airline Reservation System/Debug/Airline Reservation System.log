@@ -1,0 +1,3 @@
+﻿  File_Services.cpp
+C:\Users\Lukasz\source\repos\C++\Semestr 3\Airline Reservation System\Airline Reservation System\File_Services.cpp(27): warning C4715: "File_Services::Read_File”: niewszystkie ścieżki kodu zwracają wartość
+  Airline Reservation System.vcxproj -> C:\Users\Lukasz\source\repos\C++\Semestr 3\Airline Reservation System\Debug\Airline Reservation System.exe
